@@ -1,5 +1,5 @@
 ![A passionate frontend developer from Bangladesh](https://github.com/tarannomesty/tarannomesty/blob/main/2.png)
-<h1 align="center">Hello 👋, Hello, I am Tarannom Esty.</h1>
+<h1 align="center">Hello 👋,I am Tarannom Esty.</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 ![Profile views](https://gpvc.arturio.dev/tarannomesty)  
