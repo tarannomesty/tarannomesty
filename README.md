@@ -1,8 +1,9 @@
-### Hi there 👋, Hello, I am Tarannom Esty.
-#### A passionate frontend developer from Bangladesh
 ![A passionate frontend developer from Bangladesh](https://github.com/tarannomesty/tarannomesty/blob/main/2.png)
+<h1 align="center">Hello 👋, Hello, I am Tarannom Esty.</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-Hi! This is Tarannom Esty. I am a web designer and web developer. I've build few projects using HTML, Javascript, CSS and here to help you with your web design.I am in search of a job environment where I can utilize my pre-existing skills in computer science and engineering and gain experience of working as a part of a team.
+![Profile views](https://gpvc.arturio.dev/tarannomesty)  
+Welcome to my GitHub profile. I am a web designer and web developer. I've build few projects using HTML, Javascript, CSS and here to help you with your web design.I am in search of a job environment where I can utilize my pre-existing skills in computer science and engineering and gain experience of working as a part of a team.
 
 Skills:  JS / HTML / CSS
 
@@ -23,4 +24,4 @@ Skills:  JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tarannomesty)  
 
-![Profile views](https://gpvc.arturio.dev/tarannomesty)  
+
